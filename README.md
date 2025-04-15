@@ -24,9 +24,12 @@
 ---
 
 ## 📷 Screenshots
-
-> _Coming Soon_ (Add screenshots of the graph view, export screen, and transaction list here once you get the app running again.)
-
+<p align="center">
+  <img src="./pic1.jpg" width="300"/>
+  <img src="./pic4.jpg" width="300"/>
+  <img src="./pic2.jpg" width="300"/>
+  <img src="./pic3.jpg" width="300"/>
+</p>
 ---
 
 ## 🛠️ Tech Stack
